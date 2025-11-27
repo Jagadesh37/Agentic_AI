@@ -44,6 +44,7 @@ Execution traces
 Practical working examples
 
 🧩 Future Enhancements
+
 Add multiple agents interacting
 Extend with real-world tools (search, API calls, DB)
 Convert to a Python package
